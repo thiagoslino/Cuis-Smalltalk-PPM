@@ -26,5 +26,4 @@ PPMReadWriter putForm: myForm onFileNamed: 'output.ppm'.
 "Open an ImageMorph"
 ImageMorph fromFileNamed: 'image.ppm' :: scaleBy: 0.5 :: openInWorld.
 ```
-<img width="1452" height="796" alt="ppm-usage" src="https://github.com/user-attachments/assets/74b7a0c4-23fe-4284-9ad4-76d2982e090c" />
-
+<img width="869" height="480" alt="saida" src="https://github.com/user-attachments/assets/9093b838-664a-40fd-ba62-13fdd7f217e8" />
