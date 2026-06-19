@@ -1,6 +1,8 @@
 # Cuis-Smalltalk-PPM
 A simple ImageReadWriter subclass for reading and writing **PPM (Portable Pixmap)** images in Cuis Smalltalk.
 
+Reference: https://netpbm.sourceforge.net/doc/ppm.html
+
 ## Features
 
 - ✅ Reads **P3 (ASCII)** and **P6 (binary)** PPM formats
